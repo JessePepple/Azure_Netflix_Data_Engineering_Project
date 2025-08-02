@@ -19,7 +19,8 @@ To begin with Unity Catalog, I created a catalog named netflix_catalog, followed
 ## SERVING
 After the transformation stage, the next step was data serving. I loaded the cleaned data into SQL Data Warehouses for analysis and BI reporting. In this process, I utilized Delta Live Tables (DLT), a declarative framework for building ETL pipelines, which allowed me to validate code and efficiently orchestrate the data pipeline process.
 <img width="1434" height="764" alt="Screenshot 2025-09-17 at 13 40 24" src="https://github.com/user-attachments/assets/c6155a34-3f91-4756-a1e0-192b265f333c" />
-<img width="1434" height="764" alt="<img width="1434" height="764" alt="Screenshot 2025-09-17 at 13 44 39" src="https://github.com/user-attachments/assets/8d057287-ead6-4a6f-aa16-a8984c00e2c6" /><img width="1434" height="764" alt="Screenshot 2025-09-17 at 13 49 31" src="https://github.com/user-attachments/assets/8386caef-c34c-4926-becb-8595d1ede639" />
+<img width="1434" height="764" alt="Screenshot 2025-09-17 at 13 40 42" src="https://github.com/user-attachments/assets/f8968bf4-dcbc-4048-98b6-9fa58998793f" />
+<img width="1434" height="764" alt="Screenshot 2025-09-17 at 13 44 39" src="https://github.com/user-attachments/assets/8d057287-ead6-4a6f-aa16-a8984c00e2c6" /><img width="1434" height="764" alt="Screenshot 2025-09-17 at 13 49 31" src="https://github.com/user-attachments/assets/8386caef-c34c-4926-becb-8595d1ede639" />
 
 I attempted to load the data, fully aware it would return 0 since there were no new changes, and as expected, it did return 0.
 
