@@ -38,5 +38,5 @@ I attempted to load the data, fully aware it would return 0 since there were no 
 <img width="1434" height="764" alt="Screenshot 2025-09-17 at 14 09 10" src="https://github.com/user-attachments/assets/924470c8-b646-4fc3-80e4-9d085d8f24d8" />
 
 ## BI REPORTING
-Thanks to Databricks Partner Connect, I was able to provide the BI connector to the Data Analyst, enabling them to directly query and visualize the cleaned data in Power BI with ease—without needing to rely on the SQL Data Warehouse.
+Thanks to Databricks Partner Connect, I was able to provide the BI connector to the Data Analyst, enabling them to directly query and visualize the cleaned data in Power BI with ease—without needing to rely on the SQL Data Warehouse. Followed after was loading my data in Synapse Warehouse.
 
