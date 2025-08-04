@@ -1,5 +1,22 @@
 This project implemented Unity Catalog in Databricks for secure, centralized data governance, while leveraging Delta Lake and Delta Tables for scalable, efficient storage. The data pipeline followed the Medallion Architecture (Bronze → Silver → Gold), ensuring data quality, reliability, and usability at every stage. The solution utilized Azure Data Factory, Azure Synapse, Azure Data Lake Storage, and Azure Databricks, also finalised with Delta Live Tables as an automated pipeline tool for serving our data in the SQL Data Warehouse for analytics and reporting, with Python and SQL for data transformation and scripting.
 
+Azure Services:
+	•	Azure Databricks
+	•	Azure Data Factory (ADF)
+	•	Azure Data Lake Storage (ADLS Gen2)
+	•	Azure Synapse Analytics
+	•	Azure DevOps (for CI/CD)
+
+Databricks Components:
+	•	Delta Lake & Delta Tables
+	•	Unity Catalog (data governance)
+	•	Delta Live Tables (DLT) for automated ETL
+	•	Databricks SQL Warehouse
+
+Languages & Tools:
+	•	Python (PySpark / notebooks)
+	•	SQL
+	
 ## PROJECT OVERVIEW
 
 <img width="1320" height="736" alt="Group 4" src="https://github.com/user-attachments/assets/e4e25ee1-f539-4b3b-afc8-3e6affae184e" />
