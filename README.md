@@ -16,7 +16,11 @@ Databricks Components:
 Languages & Tools:
 	•	Python (PySpark / notebooks)
 	•	SQL
-	
+
+
+For proper detailed story telling of this project please vist this link: 
+https://www.jesseportfolio.co.uk/post/azure-netflix-data-engineering-project
+
 ## PROJECT OVERVIEW
 
 <img width="1320" height="736" alt="Group 4" src="https://github.com/user-attachments/assets/e4e25ee1-f539-4b3b-afc8-3e6affae184e" />
